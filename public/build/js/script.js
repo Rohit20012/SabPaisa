@@ -4,6 +4,7 @@ const random = (max = 100) => {
   return Math.round(Math.random() * max) + 20
 }
 console.log("DASHBoard");
+console.log("NEW");
 const randomData = () => {
   return [
     random(),
